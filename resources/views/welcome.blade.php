@@ -13,7 +13,7 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: #fff;
+                background-color: black;
                 color: #636b6f;
                 font-family: 'Raleway', sans-serif;
                 font-weight: 100;
@@ -79,15 +79,18 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    R E A C K 
                 </div>
-
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    Your One Stop Destination for Feedback Needs
+                </div>
+                <br>
+                <div class="links">
+                    <a href="https://localhost:8000/#">About us</a>
+                    <a href="https://localhost:8000/#">The Idea</a>
+                    <a href="https://localhost:8000/#">Founders</a>
+                    <a href="https://localhost:8000/#">FAQ</a>
+                    <a href="https://localhost:8000/#">Contact Us</a>
                 </div>
             </div>
         </div>
